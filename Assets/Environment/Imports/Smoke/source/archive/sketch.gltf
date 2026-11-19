@@ -1,0 +1,194 @@
+{
+	"asset": {
+		"generator": "Tilt Brush 23.2.28f36f08b",
+		"version": "2.0",
+		"copyright": "Unknown."
+	},
+	"buffers": [
+		{
+			"byteLength": 421740,
+			"uri": "sketch.bin"
+		}
+	],
+	"accessors": [
+		{
+			"bufferView": 2,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5940,
+			"max": [ 0.66726917, 1.87106037, 0.807136178 ],
+			"min": [ -0.549400032, 0.584095299, -0.603076041 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 71280,
+			"componentType": 5126,
+			"count": 5940,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5121,
+			"normalized": true,
+			"count": 5940,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5940,
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 142560,
+			"componentType": 5126,
+			"count": 5940,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 213840,
+			"componentType": 5126,
+			"count": 5940,
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 5940,
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 8910,
+			"max": [ 5939 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 17820,
+			"byteOffset": 0,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 23760,
+			"byteOffset": 17820,
+			"byteStride": 4,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 285120,
+			"byteOffset": 41580,
+			"byteStride": 12,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 95040,
+			"byteOffset": 326700,
+			"byteStride": 16,
+			"target": 34962
+		}
+	],
+	"meshes": [
+		{
+			"name": "brush_Smoke_g0_b0",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"COLOR_0": 2,
+						"_TB_TIMESTAMP": 5,
+						"_TB_UNITY_NORMAL": 1,
+						"_TB_UNITY_TEXCOORD_0": 3,
+						"_TB_UNITY_TEXCOORD_1": 4,
+						"TEXCOORD_0": 6
+					},
+					"indices": 7,
+					"material": 0,
+					"mode": 4
+				}
+			]
+		}
+	],
+	"samplers": [
+		{
+			"magFilter": 9729,
+			"minFilter": 9987,
+			"wrapS": 10497,
+			"wrapT": 10497
+		}
+	],
+	"textures": [
+		{
+			"sampler": 0,
+			"source": 0
+		}
+	],
+	"images": [
+		{
+			"uri": "Brush_Smoke-70d79cca-b159-4f35-990c-f02193947fe8-v10.0-MainTex.png"
+		}
+	],
+	"materials": [
+		{
+			"alphaMode": "BLEND",
+			"doubleSided": true,
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 0,
+					"texCoord": 0
+				},
+				"metallicFactor": 0
+			},
+			"name": "brush_Smoke",
+			"extensions": {
+				"GOOGLE_tilt_brush_material": {
+					"guid": "70d79cca-b159-4f35-990c-f02193947fe8"
+				}
+			}
+		}
+	],
+	"nodes": [
+		{
+			"name": "brush_Smoke_g0_b0",
+			"mesh": 0
+		},
+		{
+			"name": "node_SceneLight_0_i1",
+			"matrix": [0.8987941, -0.1852636, -0.3972992, 0, 0.4383711, 0.3798467, 0.8145841, 0, 1.490116E-08, -0.9063078, 0.4226182, 0, -0.3478604, 0.8486889, 0.2957861, 1]
+		},
+		{
+			"name": "node_SceneLight_1_i2",
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.3164493, 0.7920072, 0.225734, 1]
+		}
+	],
+	"scene": 0,
+	"scenes": [
+		{
+			"nodes": [
+				0,
+				1,
+				2
+			],
+			"extras": {
+
+			}
+		}
+	],
+	"extensionsUsed": [
+		"GOOGLE_tilt_brush_material"
+	]
+}
