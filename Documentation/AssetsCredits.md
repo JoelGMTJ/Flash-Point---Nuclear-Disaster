@@ -1,0 +1,1 @@
+# Créditos de los assetsModelo de *los BOMBEROS* obtenido de https://www.fab.com/listings/503fca96-5374-4fe5-8f0a-03395f58ecb3 por **sanyaork**Modelo de bomba atómica obtenida de https://www.fab.com/listings/00c91163-f9d2-4016-bc87-ac8fca5514e9 por **Sakigake Furuzawa**
